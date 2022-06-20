@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joan</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-- 🔭 I’m currently working on **Job Offer Rocket**
+- 🔭 I’m currently working on **Job Offer Rocket Project**
 
 - 🌱 I’m currently learning **Frameworks**
 
 - 📫 How to reach me **joan.quispec@gmail.com**
 
-- 📄 Know about my experiencesr technologies in the sector. I participated in the creation of a web application for j [Full Stack Developer with training as a Mechatronics Engineer. Working experience on NodeJS, React, Redux, JQuery, SQL among otheob offers and searches that allows reducing the gap between employee-employer contact through various tools. With capacity for collaboration, adaptability, problem solving, teamwork and autonomy.](Full Stack Developer with training as a Mechatronics Engineer. Working experience on NodeJS, React, Redux, JQuery, SQL among otheob offers and searches that allows reducing the gap between employee-employer contact through various tools. With capacity for collaboration, adaptability, problem solving, teamwork and autonomy.)
+- 📄 Know about my experiences technologies in the sector. I participated in the creation of a job offer web application and searches that allows reducing the gap between employee-employer contact through various tools. With capacity for collaboration, adaptability, problem solving, teamwork and autonomy.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

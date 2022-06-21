@@ -36,15 +36,12 @@ Take a look: https://proyecto-final-nu.vercel.app/
 <h2 align="left">Food App</h2>
 A single project which I apply the knowledge acquired from henry's modules.
   &nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure1.png" alt="joanq95" />
+  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PI_figure1.png" alt="joanq95" />
   &nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure2.png" alt="joanq95" />&nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure3.png" alt="joanq95" />&nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure4.png" alt="joanq95" />&nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure5.png" alt="joanq95" />&nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure6.png" alt="joanq95" />&nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure7.png" alt="joanq95" />&nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure8.png" alt="joanq95" />
+  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PI_figure2.png" alt="joanq95" />&nbsp;
+  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PI_figure3.png" alt="joanq95" />&nbsp;
+  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PI_figure4.png" alt="joanq95" />&nbsp;
+  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PI_figure5.png" alt="joanq95" />&nbsp;
 </p>
 Take a look: https://food-lovat.vercel.app/ (It's recommended to probe it on different browsers)
 

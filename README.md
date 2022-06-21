@@ -18,7 +18,7 @@
 <h3 align="left">📌 My proyects:</h3>
 <p align="left">
 <h2 align="left">Rocket</h2>
-Design and develop an App for job offers aimed at technology developers that allows them to apply to leading technology companies in the market.
+Design and develop an App for job offers aimed at technology developers that allows them to apply to leading technology companies in the market. Managed with 7 other developers using SCRUM methodology
   &nbsp;
   <img align="center" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure1.png" alt="joanq95" />
   &nbsp;

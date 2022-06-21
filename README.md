@@ -20,15 +20,15 @@
 <h2 align="left">Rocket</h2>
 Design and develop an App for job offers aimed at technology developers that allows them to apply to leading technology companies in the market. Managed with 7 other developers using SCRUM methodology
   &nbsp;
-  <img align="center" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure1.png" alt="joanq95" />
+  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure1.png" alt="joanq95" />
   &nbsp;
-  <img align="center" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure2.png" alt="joanq95" />&nbsp;
-  <img align="center" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure3.png" alt="joanq95" />&nbsp;
-  <img align="center" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure4.png" alt="joanq95" />&nbsp;
-  <img align="center" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure5.png" alt="joanq95" />&nbsp;
-  <img align="center" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure6.png" alt="joanq95" />&nbsp;
-  <img align="center" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure7.png" alt="joanq95" />&nbsp;
-  <img align="center" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure8.png" alt="joanq95" />
+  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure2.png" alt="joanq95" />&nbsp;
+  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure3.png" alt="joanq95" />&nbsp;
+  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure4.png" alt="joanq95" />&nbsp;
+  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure5.png" alt="joanq95" />&nbsp;
+  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure6.png" alt="joanq95" />&nbsp;
+  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure7.png" alt="joanq95" />&nbsp;
+  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure8.png" alt="joanq95" />
 </p>
 Take a look: https://proyecto-final-nu.vercel.app/
 

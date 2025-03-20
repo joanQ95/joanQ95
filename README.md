@@ -1,73 +1,61 @@
 <h1 align="center">Hi 👋, I'm Joan</h1>
-<h3 align="center">A passionate fullstack developer from Peru</h3>
+<h3 align="center">A passionate Full Stack Developer from Peru</h3>
 
-- 🔭 I’m currently working on **Job Offer Rocket Project**
+- 🔭 I’m currently working at **Betriax**, a fintech company, using **React, NestJS, and MongoDB**.
+- 🌱 I’m currently learning **advanced frameworks and scalable architectures**.
+- 📫 How to reach me: **joan.quispec@gmail.com**
+- 💼 I have experience in developing web applications for job offers, reducing the gap between employees and employers through technology.
 
-- 🌱 I’m currently learning **Frameworks**
+---
 
-- 📫 How to reach me **joan.quispec@gmail.com**
+<h3 align="left">📌 My Projects:</h3>
 
-- 📄 Know about my experiences technologies in the sector. I participated in the creation of a job offer web application and searches that allows reducing the gap between employee-employer contact through various tools. With capacity for collaboration, adaptability, problem solving, teamwork and autonomy.
+### 🚀 Rocket - Job Offer Web App
+A web application for job offers, designed for tech developers to apply to leading companies. Developed with a team of 7 using **SCRUM methodology**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joan quispe cusi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joan quispe cusi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rumpels95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rumpels95" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure1.png" width="750" />
+  <img src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure2.png" width="750" />
 </p>
 
-<h3 align="left">📌 My proyects:</h3>
-<p align="left">
-<h2 align="left">Rocket</h2>
-Design and develop an App for job offers aimed at technology developers that allows them to apply to leading technology companies in the market. Managed with 7 other developers using SCRUM methodology.
-  &nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure1.png" alt="joanq95" />
-  &nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure2.png" alt="joanq95" />&nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure3.png" alt="joanq95" />&nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure4.png" alt="joanq95" />&nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure5.png" alt="joanq95" />&nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure6.png" alt="joanq95" />&nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure7.png" alt="joanq95" />&nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PF_figure8.png" alt="joanq95" />&nbsp;
+🔗 **Live Demo:** [Rocket App](https://proyecto-final-nu.vercel.app/)
+
+---
+
+### 🍽️ Food App
+A personal project applying knowledge from Henry's modules.
+
+<p align="center">
+  <img src="https://github.com/joanQ95/joanQ95/blob/main/assets/PI_figure1.png" width="750" />
+  <img src="https://github.com/joanQ95/joanQ95/blob/main/assets/PI_figure2.png" width="750" />
 </p>
-Take a look: https://proyecto-final-nu.vercel.app/
-&nbsp;
+
+🔗 **Live Demo:** [Food App](https://food-lovat.vercel.app/) (Recommended to test on different browsers)
+
+---
+
+<h3 align="left">💡 Tech Stack:</h3>
 <p align="left">
-<h2 align="left">Food App</h2>
-A single project which I apply the knowledge acquired from henry's modules.
-  &nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PI_figure1.png" alt="joanq95" />
-  &nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PI_figure2.png" alt="joanq95" />&nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PI_figure3.png" alt="joanq95" />&nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PI_figure4.png" alt="joanq95" />&nbsp;
-  <img align="center" width="750" height="350" src="https://github.com/joanQ95/joanQ95/blob/main/assets/PI_figure5.png" alt="joanq95" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
 </p>
-Take a look: https://food-lovat.vercel.app/ (It's recommended to probe it on different browsers)
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-   </p>
+<h3 align="left">📬 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/joan-quispe-cusi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/rumpels95" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanq95&show_icons=true&locale=en&layout=compact" alt="joanq95" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joanq95&show_icons=true&locale=en" alt="joanq95" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanq95&show_icons=true&locale=en&layout=compact" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joanq95&show_icons=true&locale=en" /></p>
